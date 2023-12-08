@@ -16,7 +16,8 @@ Created by Daniel Woodson
     2. Open SW, close any open files
     3. Start the console application
     4. Enter the directory location
-    5. Check your files
+    5. Press enter, wait for system to finish conversion
+    6. Check your files
 
 # Build
 Dependancies can normally be found somewhere like this:  
