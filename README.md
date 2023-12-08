@@ -22,6 +22,6 @@ Created by Daniel Woodson\
 Dependancies can normally be found somewhere like this: \ 
 C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist\
 
-SolidWorks.Interop.swconst
-SolidWorks.Interop.sldworks
+SolidWorks.Interop.swconst  
+SolidWorks.Interop.sldworks  
 
